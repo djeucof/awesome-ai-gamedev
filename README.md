@@ -1,6 +1,5 @@
 # ⭐🤖🎮 Awesome AI GameDev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-
+![Awesome AI GameDev logo](cover.png)
 A handpicked list of useful AI resources for game development.  
 The stuff you *can’t afford to ignore* if you're making games nowadays.
 
