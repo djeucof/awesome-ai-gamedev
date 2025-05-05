@@ -19,6 +19,7 @@ The stuff you *can’t afford to ignore* if you're making games nowadays.
 
 - 🆓 [AI Game Programming Wisdom (PDF)](https://theswissbay.ch/pdf/Gentoomen%20Library/Game%20Development/Programming/AI%20Game%20Wisdom.pdf) — Foundational collection of articles by industry professionals.
 - 🆓 [Game AI Pro](http://www.gameaipro.com/) — Free book chapters with in-depth techniques and case studies.
+- 👀 [AI in Game Development: Boosting Efficiency and Perfecting Player Experience](https://modl.ai/ai-game-development/) — Article on using AI in games.
 
 ---
 
