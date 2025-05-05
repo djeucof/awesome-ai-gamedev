@@ -1,11 +1,11 @@
-# ⭐🤖🎮 Awesome AI GameDev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Awesome AI GameDev logo](cover.png)
+# ⭐🤖🎮 Awesome AI GameDev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![AI for Gamedev](https://img.shields.io/badge/AI%20for-Gamedev-blueviolet.svg) ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+![Awesome AI GameDev logo](cover.png) 
 A handpicked list of useful AI resources for game development.  
 The stuff you *can’t afford to ignore* if you're making games nowadays.
 
 ---
 
-## Table of Contents
+## 🧠 Table of Contents
 
 - [AI in Games](#ai-in-games)
 - [Machine Learning in Games](#machine-learning-in-games)
@@ -15,20 +15,20 @@ The stuff you *can’t afford to ignore* if you're making games nowadays.
 
 ---
 
-## AI in Games
+## 🔥 AI in Games
 
 - 🆓 [AI Game Programming Wisdom (PDF)](https://theswissbay.ch/pdf/Gentoomen%20Library/Game%20Development/Programming/AI%20Game%20Wisdom.pdf) — Foundational collection of articles by industry professionals.
 - 🆓 [Game AI Pro](http://www.gameaipro.com/) — Free book chapters with in-depth techniques and case studies.
 
 ---
 
-## Machine Learning in Games
+## 🔥 Machine Learning in Games
 
 - 🆓 [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) — Use reinforcement learning inside Unity-based games.
 
 ---
 
-## Tutorials & Courses
+## 🔥 Tutorials & Courses
 
 - 🆓 [AI and Games (YouTube)](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q) — Explains how AI works in commercial and indie games.
 - 💰 [Artificial Intelligence for Simple Games (Udemy)](https://www.udemy.com/course/artificial-intelligence-for-simple-games/) — Covers rule-based logic, decision-making, and implementation in Unity.
@@ -36,13 +36,13 @@ The stuff you *can’t afford to ignore* if you're making games nowadays.
 
 ---
 
-## Open Source Projects
+## 🔥 Open Source Projects
 
 - 🆓 [Project Malmo](https://github.com/microsoft/malmo) — AI experimentation platform based on Minecraft.
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! Add links to **high-quality, accessible**, and **practical** AI-related resources used in real or educational game projects.
 
